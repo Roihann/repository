@@ -1,1 +1,1 @@
-Codingan ini berisi "SalamKenal" yang dibuat dari NetBeans 8.2
+Repository ini berisi code "Bank2.java" yang dibuat dari NetBeans 8.2
